@@ -7,7 +7,7 @@ body, html {
 
 body {
 	user-select: none;
-	background: #002B36;
+	background: #1d1f21;
 }
 
 .text-container {
@@ -80,11 +80,11 @@ textarea {
 #box1 {
 	padding: 5px;
 	text-align: center;
-	background: #00222b;
+	background: #1d1f21;
 }
 
 #box2 {
-	background: #08323c;
+	background: #1d1f21;
 	font-size: 0;
 	padding: 0 5px;
 }
